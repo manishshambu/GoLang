@@ -1,4 +1,4 @@
 # GoLang
 Go lang rampup
 
-Tutorials followed from https://golangbot.com/
+Following tutorials from https://golangbot.com/
